@@ -1,5 +1,5 @@
 # QuantumSpeedBoost
-UI is ok. I think.  
+UI is just ok. I think.  
 
 ## License
 
